@@ -1,0 +1,17 @@
+{
+    "Firstname":"Jane",
+    "lastname":"Dope",
+    "Hobbies":["Sanskrit","Reading","Travelling"],
+    "Age":35,
+    "haschildren":true,
+    "children":[
+        {
+            "name":"sundar",
+            "age":16
+        },
+        {
+            "name":"praveen",
+            "age":12
+        }
+    ]
+}
